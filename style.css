@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+a {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+body{
+  background-color: #3A5EAB !important;
+}
+
+.carousel-item img {
+width: 90%;
+}
